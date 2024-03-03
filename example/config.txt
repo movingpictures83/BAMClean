@@ -1,0 +1,2 @@
+Prefix plugins/BAMClean/example/
+Plugin BAMClean inputfile sample.bam outputfile cleaned.bam
